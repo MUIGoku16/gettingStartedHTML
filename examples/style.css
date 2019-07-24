@@ -11,7 +11,7 @@ body{
      color: white;
  }
 
- p{
+ p{ color: darkcyan;
 
  }
 
@@ -26,3 +26,63 @@ body{
  table{
     color: blueviolet;
  }
+
+ form{
+     color: cadetblue;
+ }
+
+ #blockOne{
+     background-color: firebrick;
+ }
+
+ #static{
+ position: static;
+ color: azure;
+ background-color: pink;
+ border:5px;
+ padding:100px;
+ left:0px
+
+
+ }
+
+ #relative{
+  position: relative;
+  background-color: whitesmoke;
+  left:20px;
+  border:5px
+
+ }
+
+ #fixed{
+ position: fixed;
+ background-color: green;
+ border:5px;
+ right:30px
+
+ }
+
+ #absolute{
+  position:absolute;
+  background-color: aquamarine;
+  border:5px;
+  left:10px
+
+ }
+
+ #sticky{
+    position:sticky;
+    background-color: turquoise;
+    left:20px;
+    border:5px
+
+ }
+
+
+
+
+
+
+
+
+
