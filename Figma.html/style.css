@@ -19,5 +19,17 @@ img{
 img{
     width:250px;
     height:300px;
+} 
+
+
+a:link {
+  color: rgba(0, 255, 149, 0.507);
 }
 
+a:visited {
+  color: rgb(16, 162, 199);
+}
+
+a:hover {
+  color: blue;
+}
